@@ -5,7 +5,7 @@ from datetime import datetime
 import pytz
 import netCDF4
 
-__version__ = '1.0'
+__version__ = '0.0.1'
 
 
 class WindyWeather:
